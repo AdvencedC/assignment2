@@ -1,0 +1,66 @@
+header>h1{
+  color:#FFFFFF;
+  background:#000000;
+  font-style: italic;
+  font-variant: small-caps;
+}
+nav>a:hover{
+  color:red;
+}
+nav>a{
+  display:inline-block;
+  font-weight:bold;
+  color:#FFFFFF;
+  background:#808080;
+  width:490px;
+  text-align:center;
+  text-decoration:none;
+}
+td>a{
+  display:inline-block;
+  text-decoration:none;
+  color:#ffffff;
+  background: #808080;
+  margin:5px;
+}
+td>a:hover{
+  color:red;
+}
+
+li>a{
+  text-decoration:none;
+}
+li>a:hover{
+  color:red;
+}
+#Vita>h1{
+  color:#FFFFFF;
+  background:#000000;
+}
+#Contact>h4{
+  color:#FFFFFF;
+  background:#000000;
+}
+#vnav{
+  display:inline-block;
+  font-weight:bold;
+  background:#808080;
+  color:#FFFFFF;
+  width:495px;
+  margin:5px;
+}
+
+#cnav{
+  display:inline-block;
+  font-weight:bold;
+  background:#808080;
+  color:#FFFFFF;
+  width:495px;
+  margin:5px;
+}
+#vnav:hover{
+  color:red;
+}
+#cnav:hover{
+  color:red;
+}
